@@ -11,7 +11,7 @@ function Home() {
       <div className="about">
         <h2> Kunal Sharma</h2>
         <div className="prompt">
-          <p>I am an inquisitive software developer, who constantly wants to learn.
+          <p>Mai chutiya hu I am an inquisitive software developer, who constantly wants to learn.
 I am passionate about coding and always keen to acquire new skills. I
 believe that I have good time management skills and am consistent in
 my work. </p>
